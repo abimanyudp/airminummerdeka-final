@@ -1,0 +1,39 @@
+﻿ESP by PT. Air Merdeka Sejahtera
+==NOTE==
+
+Jadi dibuat ada 2 produk dalam satuan karton atau dus dimana terdiri dari :
+1. MerdekAir Cup 220ml (karton)
+2. MerdekAir Botol 600ml (karton)
+
+Dimana masing2 memiliki harga (bisa diliat di hargaproduk.vb) :
+MerdekAir Cup 220ml (karton) = Rp. 30.000/karton
+MerdekAir Botol 600ml (karton) = Rp. 45.500/karton
+
+Isi dari 1 karton :
+MerdekAir Cup 220ml 1 Karton (Isi 48 Cup)
+MerdekAir Botol 600ml 1 Karton (Isi 24 Botol)
+
+RM dari MerdekAir Cup 220ml
+1 Plastik Cup = Rp. 500
+1 Sedotan = Rp. 52
+1 Plastik Lid Cup Sealer = Rp. 40
+1 karton = Rp. 1.950
+
+RM dari MerdekAir Botol 600ml
+1 Plastik Botol+tutup = Rp. 729
+1 karton = Rp. 2000
+
+
+
+
+
+
+
+
+
+FORM YANG BELUM :
+1. PRODUKSI
+2. PURCHASING
+3. WAREHOUSE RM
+4. QC
+5. SUPPLIER
